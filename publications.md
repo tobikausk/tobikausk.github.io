@@ -51,8 +51,8 @@ _Journal of Physics A_
 **T. Kühn**, M. Helias \
 _PloS Computational Biology_
 
+\\
 
-
-
+<sup>1</sup> Equal contribution
 
 
