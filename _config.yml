@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "About"}
   - {file: "publications.md"} #, title: "Publications"}
   - {file: "/CV_Tobias_Kuehn.pdf", title: "CV"}
-  - {file: "contact.mdf", title: "Contact"}
+  - {file: "contact.md", title: "Contact"}
     
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tkuehn@posteo.de"}
