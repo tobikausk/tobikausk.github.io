@@ -1,18 +1,18 @@
 ---
-title: "Publications"
+<!-- title: "publications" -->
 permalink: "/publications/"
 layout: page
 ---
 
 ## Publications
 
-2023
-Diagrammatics for the inverse problem in spin systems and simple liquids
-Journal of Physics A
-TK, F. van Wijland
+# 2023 
+[Diagrammatics for the inverse problem in spin systems and simple liquids](https://iopscience.iop.org/article/10.1088/1751-8121/acb7b4/meta) \\
+Journal of Physics A \\
+**Tobias Kühn**, Frédéric van Wijland
 
 
-2022
+# 2022
 [Gell-Mann-Low criticality in neural networks](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.168301)
 L. Tiberi, J. Stapmanns, TK, T. Luu, D. Dahmen, H. Helias
 Physical Review Letters
