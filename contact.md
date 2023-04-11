@@ -4,4 +4,4 @@ permalink: "/contact/"
 layout: page
 ---
 
-Email: tkuehn@posteo.deo
+Feel free to write to me at tkuehn@posteo.de if you'd like to get in touch. 
