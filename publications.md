@@ -6,9 +6,9 @@ layout: page
 
 
 **Preprints** \
-[Information content in attractor networks with variable background connectivity] \
+Information content in attractor networks with variable background connectivity \
 **T. Kühn**, R. Monasson \
-_arkiv_
+_arXiv_
 
 
 **2023** \
@@ -42,13 +42,13 @@ _Physical Review E_
 
 **2018** \
 [Expansion of the effective action around non-Gaussian theories](https://iopscience.iop.org/article/10.1088/1751-8121/aad52e/meta) \
- **T. Kühn**<sup>1</sup>, M. Helias \
+ **T. Kühn**, M. Helias \
 _Journal of Physics A_
 
 
 **2017** \
-[Locking of Correlated Neural Activity to Ongoing Oscillations](https://doi.org/10.1371/journal.pcbi.1005534) \
-**T. Kühn**<sup>1</sup>, M. Helias \
+[Locking of correlated neural activity to ongoing oscillations](https://doi.org/10.1371/journal.pcbi.1005534) \
+**T. Kühn**, M. Helias \
 _PloS Computational Biology_
 
 
