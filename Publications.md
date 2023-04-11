@@ -7,15 +7,29 @@ layout: page
 ## Publications
 
 2023
-_Diagrammatics for the inverse problem in spin systems and simple liquids_
+Diagrammatics for the inverse problem in spin systems and simple liquids
 Journal of Physics A
 TK, F. van Wijland
 
 
 2022
 [Gell-Mann-Low criticality in neural networks](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.168301)
-L. Tiberi^*, J. Stapmanns^*, TK, T. Luu, D. Dahmen, H. Helias
+L. Tiberi, J. Stapmanns, TK, T. Luu, D. Dahmen, H. Helias
 Physical Review Letters
+
+2021
+Transient chaotic dimensionality expansion by recurrent networks
+Physical Review X
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.021064
+C. Keup2, TK2, D. Dahmen, M. Helias
+
+2021
+A. van Meegen, TK, M. Helias
+Large-Deviation Approach to Random Recurrent Neuronal Networks: Parameter Inference and Fluctuation-Induced Transitions
+Physical Review Letters
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158302
+
+
 
 
 
