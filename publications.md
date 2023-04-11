@@ -12,13 +12,13 @@ _Journal of Physics A_
 
 **2022** \
 [Gell-Mann-Low criticality in neural networks](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.168301) \
-Lorenzo Tiberi<sup>*, Jonas Stapmanns<sup>*, **Tobias Kühn**, Thomas Luu, David Dahmen, and Moritz Helias \
+Lorenzo Tiberi<sup>*,</sup>, Jonas Stapmanns<sup>*,</sup>, **Tobias Kühn**, Thomas Luu, David Dahmen, and Moritz Helias \
 _Physical Review Letters_ 
 
 
 **2021** \
 [Transient chaotic dimensionality expansion by recurrent networks](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.021064) \
-Christian Keup, **Tobias Kühn**, David Dahmen, and Moritz Helias \
+Christian Keup<sup>*,</sup>, **Tobias Kühn**<sup>*,</sup>, David Dahmen, and Moritz Helias \
 _Physical Review X_
 
 **2021** \
