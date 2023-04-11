@@ -12,18 +12,18 @@ _Journal of Physics A_
 
 **2022** \
 [Gell-Mann-Low criticality in neural networks](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.168301) \
-L. Tiberi, J. Stapmanns, **T. Kühn**, T. Luu, D. Dahmen, H. Helias \
+Lorenzo Tiberi<sup>*, Jonas Stapmanns<sup>*, **Tobias Kühn**, Thomas Luu, David Dahmen, and Moritz Helias \
 _Physical Review Letters_ 
 
 
 **2021** \
-{Transient chaotic dimensionality expansion by recurrent networks}(https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.021064) \
-C. Keup2, TK2, D. Dahmen, M. Helias \
+[Transient chaotic dimensionality expansion by recurrent networks](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.021064) \
+Christian Keup, **Tobias Kühn**, David Dahmen, and Moritz Helias \
 _Physical Review X_
 
 **2021** \
-[Large-Deviation Approach to Random Recurrent Neuronal Networks: Parameter Inference and Fluctuation-Induced Transitions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158302) \
-A. van Meegen, TK, M. Helias \
+[Large-deviation approach to random recurrent neuronal networks: parameter inference and fluctuation-induced transitions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158302) \
+A. van Meegen, **T Kühn**, M. Helias \
 _Physical Review Letters_ 
 
 
