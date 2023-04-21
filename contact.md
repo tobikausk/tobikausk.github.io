@@ -4,4 +4,4 @@ permalink: "/contact/"
 layout: page
 ---
 
-Feel free to write to me [here](mailto:tkuehn@posteo.de) if you'd like to get in touch. 
+Feel free to write to me (tobias.kuhn AT inserm Dot fr) if you'd like to get in touch. 
