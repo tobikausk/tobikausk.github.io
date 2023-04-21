@@ -14,5 +14,5 @@ Previously I have carried out postdoctoral work on field theory and soft matter 
 
 I did my PhD with [Moritz Helias](https://scholar.google.de/citations?user=NZQ_gSAAAAAJ&hl=en) at the [Institut of Computational and Systems Neuroscience](https://www.fz-juelich.de/de/inm/inm-6) of the [Forschungszentrum Jülich](https://www.fz-juelich.de/de) in Germany, working on the adaptation of techniques from statistical physics to neuroscience, as well as their further development.
 
-I am fascinated by how theoretical physics connects seemingly desparate phenomena and thereby deepens their understanding. My works on diagrammatics of non-Gaussian theories, for example, help to reveal the common grounds of objects as diverse as simple liquids and neural networks. These connections to the real world mean in particular that theoretical physics is not only beautiful, but - lucky me - might also be also useful in the real world!
+I am fascinated by how theoretical physics connects seemingly desparate phenomena and thereby deepens their understanding. My works on diagrammatics of non-Gaussian theories, for example, help to reveal the common grounds of objects as diverse as simple liquids and neural networks. These connections to the real world mean in particular that theoretical physics is not only beautiful, but - lucky me - might also be useful in the real world!
 
