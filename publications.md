@@ -6,9 +6,10 @@ layout: page
 
 
 **Preprints** \
-Information content in attractor networks with variable background connectivity \
+Information content in continuous attractor neural networks is preserved
+in the presence of moderate disordered background connectivity, hal-04076584 \
 **T. Kühn**, R. Monasson \
-_arXiv_
+_HAL_
 
 
 **2023** \
