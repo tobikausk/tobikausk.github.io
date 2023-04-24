@@ -5,13 +5,14 @@ layout: page
 ---
 
 
-**Preprints** \
+**Preprint** \
+**2023** \
 Information content in continuous attractor neural networks is preserved
 in the presence of moderate disordered background connectivity, hal-04076584 \
 **T. Kühn**, R. Monasson \
 _HAL_
 
-
+**Papers**
 **2023** \
 [Diagrammatics for the inverse problem in spin systems and simple liquids](https://iopscience.iop.org/article/10.1088/1751-8121/acb7b4/meta) \
 **T. Kühn**, F. van Wijland \
