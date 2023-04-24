@@ -5,6 +5,7 @@ title: "About"
 
 ---
 
+![TK in Salzburg](TK_in_Salzburg.jpg "Tobias Kuehn")
 
 Hello! My name is Tobias Kühn. I'm a postdoctoral researcher currently working at the interface of neuroscience and theoretical physics.
 
