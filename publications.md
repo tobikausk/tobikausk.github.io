@@ -59,7 +59,7 @@ _PloS Computational Biology_
 **T. Kühn** \
 _RWTH Aachen_
 
-Also see my [google scholar page](https://scholar.google.fr/citations?user=gH_H_ycAAAAJ&hl=de&oi=ao).
+Also see my [Google Scholar page](https://scholar.google.fr/citations?user=gH_H_ycAAAAJ&hl=de&oi=ao).
 
 <br />
 
