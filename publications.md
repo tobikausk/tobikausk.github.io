@@ -59,6 +59,8 @@ _PloS Computational Biology_
 **T. Kühn** \
 _RWTH Aachen_
 
+Also see my [google scholar page](https://scholar.google.fr/citations?user=gH_H_ycAAAAJ&hl=de&oi=ao).
+
 <br />
 
 <sup>1</sup> Equal contribution
