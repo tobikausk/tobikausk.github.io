@@ -4,6 +4,9 @@ layout: page
 title: "About"
 
 ---
+const md = require("markdown-it")({
+  html: true,
+});
 
 <img src="TK_in_Salzburg.jpg", alt = "Tobias Kuehn" width = "50%" height = "50%" title = "Tobias Kuehn">
 
