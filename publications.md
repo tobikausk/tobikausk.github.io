@@ -53,6 +53,12 @@ _Journal of Physics A_
 **T. Kühn**, M. Helias \
 _PloS Computational Biology_
 
+**Thesis** \
+**2019/2020** \
+[Path integral methods for correlated activity in neuronal networks](https://publications.rwth-aachen.de/record/782370) \
+**T. Kühn** \
+_RWTH Aachen_
+
 <br />
 
 <sup>1</sup> Equal contribution
