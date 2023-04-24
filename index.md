@@ -7,7 +7,7 @@ title: "About"
 
 <img align ="left" src="TK_in_Salzburg.jpg" alt = "Tobias Kuehn" width = "30%" height = "30%" title = "Tobias Kuehn">
 
-&nbsp Hello! My name is Tobias Kühn. I'm a postdoctoral researcher currently working at the interface of neuroscience and theoretical physics.
+&nbsp; Hello! My name is Tobias Kühn. I'm a postdoctoral researcher currently working at the interface of neuroscience and theoretical physics.
 
 &nbsp; My current position is at the [Institut de la Vision](https://www.institut-vision.org/en/) in Paris, France, where I work with [Ulisse Ferrari](https://scholar.google.it/citations?user=89XheA0AAAAJ&hl=it) on the analysis of electrophysiological data from the retina with tools from statistical physics. 
 
