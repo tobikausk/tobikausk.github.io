@@ -9,7 +9,7 @@ title: "About"
 
 Hello! My name is Tobias Kühn. I'm a postdoctoral researcher currently working at the interface of neuroscience and theoretical physics.
 
-My current position is at the [Institut de la Vision](https://www.institut-vision.org/en/) in Paris, France, where I work with [Ulisse Ferrari](https://scholar.google.it/citations?user=89XheA0AAAAJ&hl=it) on the analysis of electrophysiological data from the retina with tools from statistical physics. 
+My current position is at the [Institut de la Vision](https://www.institut-vision.org/en/) in Paris, France, where I work with [Ulisse Ferrari](https://scholar.google.it/citations?user=89XheA0AAAAJ&hl=it) in the group of [Olivier Marre](http://oliviermarre.free.fr/) on the analysis of electrophysiological data from the retina with tools from statistical physics. 
 
 Previously I have carried out postdoctoral work on field theory and soft matter with [Frédéric van Wijland](https://scholar.google.fr/citations?user=tTppDosAAAAJ&hl=en) at the [Laboratoire Matière et Systèmes Complexes](http://www.msc.univ-paris-diderot.fr) of Université de Paris, and with [Remi Monasson](https://scholar.google.com/citations?user=J6LkBeUAAAAJ&hl=fr) on positional information encoded in disordered systems at the [Laboratoire de Physique](https://www.lpens.ens.psl.eu/?lang=en) of École Normale Supérieure.
 
