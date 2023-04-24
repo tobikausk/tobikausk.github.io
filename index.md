@@ -5,7 +5,7 @@ title: "About"
 
 ---
 
-<img align ="left" src="TK_in_Salzburg_with_margins.jpg" alt = "Tobias Kuehn" width = "25%" height = "25%" title = "Tobias Kuehn">
+<img align ="left" src="TK_in_Salzburg_with_margins.jpg" alt = "Tobias Kuehn" width = "24%" height = "24%" title = "Tobias Kuehn">
 
 Hello! My name is Tobias Kühn. I'm a postdoctoral researcher currently working at the interface of neuroscience and theoretical physics.
 
