@@ -8,9 +8,9 @@ layout: page
 **Preprint** \
 **2023** \
 [Information content in continuous attractor neural networks is preserved
-in the presence of moderate disordered background connectivity](https://hal.science/hal-04076584) \
+in the presence of moderate disordered background connectivity](https://arxiv.org/abs/2304.13334) \
 **T. Kühn**, R. Monasson \
-_HAL preprints_
+_arxiv_
 
 **Papers** \
 **2023** \
