@@ -6,7 +6,7 @@ layout: page
 
 
 **Papers** \
-**2023** \
+**2023** 
 
 [Information content in continuous attractor neural networks is preserved
 in the presence of moderate disordered background connectivity](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064301) \
