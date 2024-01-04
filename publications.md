@@ -8,9 +8,9 @@ layout: page
 **Preprint** \
 **2023** \
 [Information content in continuous attractor neural networks is preserved
-in the presence of moderate disordered background connectivity](https://arxiv.org/abs/2304.13334) \
+in the presence of moderate disordered background connectivity](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064301) \
 **T. Kühn**, R. Monasson \
-_arxiv_, accepted in _Physical Review E_
+_Physical Review E_, editor's suggestion, available at [arxiv](https://arxiv.org/abs/2304.13334)
 
 **Papers** \
 **2023** \
