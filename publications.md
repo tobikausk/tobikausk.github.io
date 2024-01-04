@@ -16,7 +16,7 @@ _Physical Review E_, editor's suggestion, also available at [arxiv](https://arxi
 
 [Diagrammatics for the inverse problem in spin systems and simple liquids](https://iopscience.iop.org/article/10.1088/1751-8121/acb7b4/meta) \
 **T. Kühn**, F. van Wijland \
-_Journal of Physics A_ 
+_Journal of Physics A_, also available at [arxiv](https://arxiv.org/abs/2207.11302) 
 
 
 **2022** \
