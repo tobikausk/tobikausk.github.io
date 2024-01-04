@@ -5,15 +5,15 @@ layout: page
 ---
 
 
-**Preprint** \
+**Papers** \
 **2023** \
+
 [Information content in continuous attractor neural networks is preserved
 in the presence of moderate disordered background connectivity](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064301) \
 **T. Kühn**, R. Monasson \
 _Physical Review E_, editor's suggestion, available at [arxiv](https://arxiv.org/abs/2304.13334)
 
-**Papers** \
-**2023** \
+
 [Diagrammatics for the inverse problem in spin systems and simple liquids](https://iopscience.iop.org/article/10.1088/1751-8121/acb7b4/meta) \
 **T. Kühn**, F. van Wijland \
 _Journal of Physics A_ 
