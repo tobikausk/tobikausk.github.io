@@ -30,7 +30,7 @@ _Physical Review Letters_
  **T. Kühn**<sup>1</sup>, C. Keup<sup>1</sup>, D. Dahmen, M. Helias \
 _Physical Review X_
 
-**2021** \
+
 [Large-deviation approach to random recurrent neuronal networks: parameter inference and fluctuation-induced transitions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158302) \
 A. van Meegen, **T. Kühn**, M. Helias \
 _Physical Review Letters_
