@@ -3,6 +3,16 @@ title: "Publications"
 permalink: "/publications/"
 layout: page
 ---
+**Preprints** \
+\
+**2025** \
+[Diagrammatic expansion for the mutual-information rate in the realm of limited statistics](https://arxiv.org/abs/2504.06255) \
+**T. Kühn**, G. Mahuas, U. Ferrari \
+_arxiv_
+
+[Towards data analysis with diagrammatics](https://arxiv.org/abs/2504.03631) \
+**T. Kühn** \
+_arxiv_
 
 
 **Papers** \
