@@ -4,10 +4,9 @@ permalink: "/contact/"
 layout: page
 ---
 
-Institut de la Vision, Sorbonne Université \
-Bâtiment UCL \
-13 rue Moreau \
-75012 Paris \
-France \
+Institut für Physiologie, Universität Bern \
+Muesmattstr 27a \
+3012 Bern \
+Switzerland \
 \
-Feel free to write to me (tobias.kuhn AT inserm Dot fr) if you'd like to get in touch. 
+Feel free to write to me (tobias.kuehn AT unibe Dot ch) if you'd like to get in touch. 
