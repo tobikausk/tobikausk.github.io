@@ -6,6 +6,10 @@ layout: page
 **Preprints** \
 \
 **2025** \
+[Phase Transitions of the Additive Uniform Noise Channel with Peak Amplitude and Cost Constraint](https://arxiv.org/abs/2510.12427) \ 
+J. Stapmanns, C. Dias, L. Eilers, **T. Kühn**, J.-P. Pfister \
+_arxiv_
+
 [Diagrammatic expansion for the mutual-information rate in the realm of limited statistics](https://arxiv.org/abs/2504.06255) \
 **T. Kühn**, G. Mahuas, U. Ferrari \
 _arxiv_
