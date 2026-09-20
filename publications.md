@@ -6,21 +6,24 @@ layout: page
 **Preprints** \
 \
 **2025** \
-[Phase Transitions of the Additive Uniform Noise Channel with Peak Amplitude and Cost Constraint](https://arxiv.org/abs/2510.12427) \
-J. Stapmanns, C. Dias, L. Eilers, **T. Kühn**, J.-P. Pfister \
-_arxiv_
 
 [Diagrammatic expansion for the mutual-information rate in the realm of limited statistics](https://arxiv.org/abs/2504.06255) \
 **T. Kühn**, G. Mahuas, U. Ferrari \
 _arxiv_
 
-[Towards data analysis with diagrammatics](https://arxiv.org/abs/2504.03631) \
-**T. Kühn** \
-_arxiv_
-
 
 **Papers** \
 \
+**2026**\
+
+[Phase Transitions of the Additive Uniform Noise Channel With Peak Amplitude and Cost Constraint]([https://arxiv.org/abs/2510.12427](https://ieeexplore.ieee.org/document/11494094)) \
+J. Stapmanns, C. Dias, L. Eilers, **T. Kühn**, J.-P. Pfister \
+_IEEE Transactions on Information Theory_
+
+[Diagrammatics of free energies with fixed variance for high-dimensional data](https://iopscience.iop.org/article/10.1088/1751-8121/ae3e2f) \
+**T. Kühn** \
+_Journal of Physics A_
+
 **2023** \
 [Information content in continuous attractor neural networks is preserved
 in the presence of moderate disordered background connectivity](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064301) \
