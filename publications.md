@@ -5,7 +5,7 @@ layout: page
 ---
 **Preprints** \
 \
-**2025** \
+**2025**
 
 [Diagrammatic expansion for the mutual-information rate in the realm of limited statistics](https://arxiv.org/abs/2504.06255) \
 **T. Kühn**, G. Mahuas, U. Ferrari \
@@ -14,7 +14,7 @@ _arxiv_
 
 **Papers** \
 \
-**2026**\
+**2026**
 
 [Phase Transitions of the Additive Uniform Noise Channel With Peak Amplitude and Cost Constraint]([https://arxiv.org/abs/2510.12427](https://ieeexplore.ieee.org/document/11494094)) \
 J. Stapmanns, C. Dias, L. Eilers, **T. Kühn**, J.-P. Pfister \
