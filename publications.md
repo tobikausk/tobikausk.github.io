@@ -16,7 +16,7 @@ _arxiv_
 \
 **2026**
 
-[Phase Transitions of the Additive Uniform Noise Channel With Peak Amplitude and Cost Constraint]([https://arxiv.org/abs/2510.12427](https://ieeexplore.ieee.org/document/11494094)) \
+[Phase Transitions of the Additive Uniform Noise Channel With Peak Amplitude and Cost Constraint](https://ieeexplore.ieee.org/document/11494094) \
 J. Stapmanns, C. Dias, L. Eilers, **T. Kühn**, J.-P. Pfister \
 _IEEE Transactions on Information Theory_
 
