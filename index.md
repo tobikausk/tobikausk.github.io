@@ -7,9 +7,9 @@ title: "About"
 
 <img align ="left" src="TK_portrait_2023_with_margins.jpeg" alt = "Tobias Kuehn" width = "24%" height = "24%" title = "Tobias Kuehn">
 
-Hello! My name is Tobias Kühn. I'm a postdoctoral researcher currently working at the interface of biology and theoretical physics at the university of Bern, in the group of [Jorge Fernandez de Cossio Diaz](https://sites.google.com/view/jorgefdcd?pli=1&authuser=0).
+Hello! My name is Tobias Kühn. I'm a postdoctoral researcher currently working at the interface of biology and theoretical physics at [Institut de Physique Théorique](https://www.ipht.fr/), affiliated to the [University Paris-Saclay](https://www.universite-paris-saclay.fr/), in the group of [Jorge Fernandez de Cossio Diaz](https://sites.google.com/view/jorgefdcd?pli=1&authuser=0).
 
-Before, I have been at the Institute of Physiology, in the group of (Jean-Pascal Pfister)(https://physiologie.unibe.ch/~pfister/) and at the [Institut de la Vision](https://www.institut-vision.org/en/) in Paris, France in the group of [Ulisse Ferrari](https://scholar.google.it/citations?user=89XheA0AAAAJ&hl=it) as part of the team of [Olivier Marre](http://oliviermarre.free.fr/) working on the information theory of neuroscience. 
+Before, I have been at the Institute of Physiology, in the group of (Jean-Pascal Pfister)(https://physiologie.unibe.ch/~pfister/) and at the [Institut de la Vision](https://www.institut-vision.org/en/) in Paris, in the group of [Ulisse Ferrari](https://scholar.google.it/citations?user=89XheA0AAAAJ&hl=it) working on the information theory of neuroscience. 
 
 Previously I have carried out postdoctoral work on field theory and soft matter with [Frédéric van Wijland](https://scholar.google.fr/citations?user=tTppDosAAAAJ&hl=en) at the [Laboratoire Matière et Systèmes Complexes](http://www.msc.univ-paris-diderot.fr) of Université de Paris, and with [Remi Monasson](https://scholar.google.com/citations?user=J6LkBeUAAAAJ&hl=fr) on positional information encoded in disordered systems at the [Laboratoire de Physique](https://www.lpens.ens.psl.eu/?lang=en) of École Normale Supérieure.
 
