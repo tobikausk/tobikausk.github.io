@@ -14,7 +14,7 @@ _arxiv_
 
 **Papers** \
 \
-**2026**
+**2026** \
 
 [Phase Transitions of the Additive Uniform Noise Channel With Peak Amplitude and Cost Constraint](https://ieeexplore.ieee.org/document/11494094) \
 J. Stapmanns, C. Dias, L. Eilers, **T. Kühn**, J.-P. Pfister \
@@ -42,7 +42,7 @@ L. Tiberi<sup>1</sup>, J. Stapmanns<sup>1</sup>, **T. Kühn**, T. Luu, D. Dahmen
 _Physical Review Letters_ 
 
 
-**2021** 
+**2021** \
 
 [Large-deviation approach to random recurrent neuronal networks: parameter inference and fluctuation-induced transitions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158302) \
 A. van Meegen, **T. Kühn**, M. Helias \
